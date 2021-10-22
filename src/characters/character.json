@@ -1,0 +1,20 @@
+{
+  "info": {
+    "nome": "Ruhtil Sigrun",
+    "classe": "Bárbaro",
+    "nivel": 3,
+    "antecedente": "Soldado",
+    "nomeJogador": "Guilherme",
+    "raca": "Anão da Colina",
+    "tendencia": "Lawful Good",
+    "expPoints": 0
+  },
+  "atributos": {
+    "str": 17,
+    "dex": 15,
+    "con": 16,
+    "int": 16,
+    "wis": 10,
+    "cha": 8
+  }
+}
