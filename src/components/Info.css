@@ -1,0 +1,11 @@
+.which {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 2vmax;
+    margin-left: 0.5vmax;
+}
+#nome {
+    grid-row: 1 / 3;
+    font-size: 3.5vmax;
+}

@@ -1,0 +1,22 @@
+#container {
+    border: thin dashed white;
+    width: 11vw;
+    height: 100%;
+    box-sizing: border-box;
+}
+.item {
+    display: flex;
+    align-items: center;
+}
+.item input {
+    margin-left: 0.5vw;
+    transform: scale(1.5);
+}
+.mod {
+    font-size: 2vw;
+    margin: 0px 0.5vw;
+    border-bottom: thin solid black;
+}
+.oque {
+    font-size: 1.5vw;
+}
